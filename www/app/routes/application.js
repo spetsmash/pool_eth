@@ -44,14 +44,15 @@ export default Ember.Route.extend({
     };
 
     return Ember.RSVP.hash(promises).then(function(data) {
-      return data;
       // data.main.candidates = data.main.candidates.map(function(b) {
       //   Ember.$.getJSON('https://api.etherscan.io/api?module=block&action=getblockreward&blockno='+ b.height + '&apikey=SVI12T5A9B8JW6SA2D44NFW165VHP2AW4I').then(function(data) {
       //     b.minerMine = data.result.blockMiner;
       //     return Block.create(b);
       //   });
-      //
+
       // });
+      return data;
+
     });
   },
 

@@ -25,9 +25,9 @@ var Block = Ember.Object.extend({
 		  return 0;
 		}
 	}),
-  minerMine: Ember.computed('orphan', 'uncle', function() {
-
-    return !this.get('orphan');
+  minerMine: Ember.computed('minerMine', function() {
+    console.log(this);
+    return this.get('minerMine');
   })
 
 });

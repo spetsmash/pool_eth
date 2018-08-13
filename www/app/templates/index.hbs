@@ -41,7 +41,7 @@
       <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
         <div class="col-md-12 main-statistics">
           <p class="stats-header">Last Block</p>
-          <p class="stats-info orange">{{format-number stats.height}}</p>
+          <p class="stats-info orange">{{stats.model.main.stats.lastBlockFound}}</p>
           <p class="stats-note">{{format-relative (seconds-to-ms stats.model.main.stats.lastBlockFound)}}</p>
         </div>
       </div>
@@ -61,7 +61,7 @@
           <tbody>
           {{#each model.block.candidates as |block|}}
             <tr>
-              <td class="table-block"><a href="https://etherscan.io/block/{{block.height}}" rel="nofollow" target="_blank">{{format-number block.height}}</a></td>
+              <td class="table-block"><a href="https://etherscan.io/block/{{block.height}}" rel="nofollow" target="_blank">{{block.height}}</a></td>
               <td class="table-info">{{format-date-locale block.timestamp}}</td>
               <td class="table-info">
                 {{#if block.isLucky}}
