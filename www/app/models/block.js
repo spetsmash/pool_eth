@@ -24,7 +24,12 @@ var Block = Ember.Object.extend({
 		} else {
 		  return 0;
 		}
-	})
+	}),
+  minerMine: Ember.computed('orphan', 'uncle', function() {
+
+    return !this.get('orphan');
+  })
+
 });
 
 export default Block;

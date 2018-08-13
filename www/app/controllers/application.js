@@ -1,12 +1,13 @@
 import Ember from 'ember';
 import config from '../config/environment';
 
+
 export default Ember.Controller.extend({
   get config() {
     return config.APP;
   },
 
-  height: Ember.computed('model.nodes', {
+  height: Ember.computed('model.main.nodes', {
     get() {
       var node = this.get('bestNode');
       if (node) {
@@ -16,13 +17,14 @@ export default Ember.Controller.extend({
     }
   }),
 
-  roundShares: Ember.computed('model.stats', {
+  roundShares: Ember.computed('model.main.stats', {
     get() {
-      return parseInt(this.get('model.stats.roundShares'));
+
+      return parseInt(this.get('model.main.stats.roundShares'));
     }
   }),
 
-  difficulty: Ember.computed('model.nodes', {
+  difficulty: Ember.computed('model.main.nodes', {
     get() {
       var node = this.get('bestNode');
       if (node) {
@@ -40,14 +42,14 @@ export default Ember.Controller.extend({
 
   immatureTotal: Ember.computed('model', {
     get() {
-      return this.getWithDefault('model.immatureTotal', 0) + this.getWithDefault('model.candidatesTotal', 0);
+      return this.getWithDefault('model.main.immatureTotal', 0) + this.getWithDefault('model.main.candidatesTotal', 0);
     }
   }),
 
-  bestNode: Ember.computed('model.nodes', {
+  bestNode: Ember.computed('model.main.nodes', {
     get() {
       var node = null;
-      this.get('model.nodes').forEach(function (n) {
+      this.get('model.main.nodes').forEach(function (n) {
         if (!node) {
           node = n;
         }
@@ -61,13 +63,14 @@ export default Ember.Controller.extend({
 
   lastBlockFound: Ember.computed('model', {
     get() {
-      return parseInt(this.get('model.lastBlockFound')) || 0;
+      console.log(parseInt(this.get('model')));
+      return parseInt(this.get('model.main.lastBlockFound')) || 0;
     }
   }),
 
   roundVariance: Ember.computed('model', {
     get() {
-      var percent = this.get('model.stats.roundShares') / this.get('difficulty');
+      var percent = this.get('model.main.stats.roundShares') / this.get('difficulty');
       if (!percent) {
         return 0;
       }
@@ -81,4 +84,5 @@ export default Ember.Controller.extend({
       return Date.now() + epochOffset;
     }
   })
+
 });
