@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e4150ea-d896-4f87-8b6d-a6f25b069416" name="Default" comment="init">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/open-ethereum-pool.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/www/package-lock.json" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/routes/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/templates/index.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="65" column="36" lean-forward="false" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/styles/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="338" column="11" lean-forward="false" selection-start-line="338" selection-start-column="11" selection-end-line="338" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/templates/application.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blocks.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proxy/blocks.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="46" column="60" lean-forward="false" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="luck.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/templates/luck.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="block.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/models/block.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="payment.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/models/payment.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/controllers/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1275">
+              <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>8080</find>
+      <find>logo-1</find>
+      <find>img</find>
+      <find>nav</find>
+      <find>public</find>
+      <find>styles</find>
+      <find>navbar-bra</find>
+      <find>navbar</find>
+      <find>container</find>
+      <find>jumbo</find>
+      <find>wor</find>
+      <find>workers</find>
+      <find>jum</find>
+      <find>diffi</find>
+      <find>price</find>
+      <find>hash</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/www/dist/fonts</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config.json" />
+        <option value="$PROJECT_DIR$/www/app/templates/application.hbs" />
+        <option value="$PROJECT_DIR$/www/app/templates/miners.hbs" />
+        <option value="$PROJECT_DIR$/www/app/templates/payments.hbs" />
+        <option value="$PROJECT_DIR$/www/app/templates/blocks.hbs" />
+        <option value="$PROJECT_DIR$/www/app/templates/account.hbs" />
+        <option value="$PROJECT_DIR$/www/app/index.html" />
+        <option value="$PROJECT_DIR$/www/config/environment.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/proxy/blocks.go" />
+        <option value="$PROJECT_DIR$/www/app/controllers/application.js" />
+        <option value="$PROJECT_DIR$/www/app/routes/application.js" />
+        <option value="$PROJECT_DIR$/www/app/templates/index.hbs" />
+        <option value="$PROJECT_DIR$/www/app/styles/app.css" />
+        <option value="$PROJECT_DIR$/www/app/models/block.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/www/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-07SbXxGJ.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-2Eydb1dj.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-4PKiGbIZ.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-6NBBrGrN.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-8DbwosFR.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-COUKQVw9.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-DnkXumGB.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-HJWgVFt6.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-I3ZsVHjb.tmp/12/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-IXfyI1g6.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-IYEd6tp6.tmp/1/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-Kck7MtjL.tmp/12/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-MNhx2kyH.tmp/12/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-N2fqFIUX.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-NrjjDy5O.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-SwTtoEJB.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-VSrJZLGD.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-VoEi2Rsi.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-aBLxpRtF.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-asdqqe8S.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-bgtti93D.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-cATLwzYy.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-cvq7WEwI.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-d0oOVepO.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-fmNBHQIt.tmp/1/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-lCwviNN3.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-n1T70opM.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-n2cI2p6s.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-oGlJRNkV.tmp/1/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-ovgdOAn9.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-rTEEshCP.tmp/12/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-yeLM8PJg.tmp/1/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-09yGjURf.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-0o1gERsn.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-2QOlIzCD.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-4wcGI6TK.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-8Q2sQc4l.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-Al03cZc3.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-B84pgIYu.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-CpwzDqCr.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-DdipkLnh.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-FHi1eX1x.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-Gjs34KNy.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-IW5qbV3S.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-IeiidVxx.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-KCd1eI7m.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-MaeTcEkw.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-MvdNuPzv.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-OUtGMz3u.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-QX9eX0oJ.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-VrwYiiyK.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-Xw3qRqec.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-YP5fgHvQ.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-ZYn9E7rq.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-bvEPGmfL.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-eIP94SJP.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-hElNJ4Gb.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-i81az0BW.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-koFD9at9.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-p4s8vX0R.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-pWfdBkTv.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-qZ7bvEx7.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-t7EVaebE.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-xKRGEqby.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-1HiwYv8V.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-9GKaSrLT.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-DeJwmStS.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-DvYlhCKD.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-ICnXgs6M.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-JHhz8KQS.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-UVS6hHsT.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-YObC7IWi.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-ZXXcQJAN.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-hpF4jsxO.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-r8W9juVH.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-swblLVMq.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-output_path-Cn2f8U3X.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-output_path-OBEobFHg.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-output_path-aNIAVVQX.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-output_path-bFEdhrIh.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-AaVWDDAG.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-IfW2McBp.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-M6XoX8pE.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-YNv7dGbh.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-asQYRMQ9.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-cAtSu5bJ.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-hWKl9z3h.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-qB6YpOZ2.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-138XI5e3.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-2xTcwt8b.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-5LFC3LOP.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-FduI9PfI.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-JC3pIv1k.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-Ln7n4L51.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-M5MUH8WK.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-MR6TfH87.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-kcsHVRIy.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-uhEVQ8sx.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-xgDm6yqp.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-xnQmHBV2.tmp/0/vendor/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1385" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="misc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="payouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="policy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="HbShouldOpenHtmlAsHb" value="disabled" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ejs.open.delimiter" value="&lt;%" />
+    <property name="ejs.close.delimiter" value="%&gt;" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/dist/assets" />
+      <recent name="$PROJECT_DIR$/www/assets" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e4150ea-d896-4f87-8b6d-a6f25b069416" name="Default" comment="" />
+      <created>1533564357871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533564357871</updated>
+      <workItem from="1533564360437" duration="746000" />
+      <workItem from="1533630740586" duration="1644000" />
+      <workItem from="1533632564421" duration="969000" />
+      <workItem from="1533634435661" duration="1765000" />
+      <workItem from="1533642230498" duration="405000" />
+      <workItem from="1533644111674" duration="19333000" />
+      <workItem from="1533928705452" duration="138000" />
+      <workItem from="1533929068321" duration="90000" />
+      <workItem from="1533929316175" duration="1657000" />
+      <workItem from="1533972853969" duration="639000" />
+      <workItem from="1533978517250" duration="1435000" />
+      <workItem from="1534148908417" duration="773000" />
+      <workItem from="1534156907545" duration="7584000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1534168850401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534168850401</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37178000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1385" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26026392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49078014" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2565029" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/not-found.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/payments.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="41" lean-forward="false" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/help.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/application-error.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/about.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/routes/payments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc/rpc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payouts/unlocker_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payouts/unlocker.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7741">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/miner.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-811">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/proto.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/handlers.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1276">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/account/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/account/payouts.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/helpers/format-hashrate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/components/active-li.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/account.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="49" column="97" lean-forward="false" selection-start-line="49" selection-start-column="77" selection-end-line="49" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="283" column="39" lean-forward="false" selection-start-line="283" selection-start-column="32" selection-end-line="283" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="66" lean-forward="false" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payouts/payer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1125">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config/environment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="40" column="41" lean-forward="false" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/blocks.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="110" lean-forward="false" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/routes/account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/routes/miners.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/blocks/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/blocks/immature.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/controllers/account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/blocks/pending.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/resolver.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/formats.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/routes/blocks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/controllers/help.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/miners.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="73" lean-forward="false" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/helpers/with-metric-prefix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/blocks/block.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/blocks.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="46" column="60" lean-forward="false" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/luck.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/application.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/controllers/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/models/payment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/routes/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/templates/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="65" column="36" lean-forward="false" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/styles/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="338" column="11" lean-forward="false" selection-start-line="338" selection-start-column="11" selection-end-line="338" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/models/block.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
