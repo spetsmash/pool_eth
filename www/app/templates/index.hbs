@@ -63,12 +63,15 @@
             <tr>
               <td class="table-block"><a href="https://etherscan.io/block/{{block.height}}" rel="nofollow" target="_blank">{{block.height}}</a></td>
               <td class="table-info">{{format-date-locale block.timestamp}}</td>
+              {{!--<td class="table-info">--}}
+                {{!--{{#if block.isLucky}}--}}
+                  {{!--<span class="label label-success">{{format-number block.variance style='percent'}}</span>--}}
+                {{!--{{else}}--}}
+                  {{!--<span class="label label-info">{{format-number block.variance style='percent'}}</span>--}}
+                {{!--{{/if}}--}}
+              {{!--</td>--}}
               <td class="table-info">
-                {{#if block.isLucky}}
-                  <span class="label label-success">{{format-number block.variance style='percent'}}</span>
-                {{else}}
-                  <span class="label label-info">{{format-number block.variance style='percent'}}</span>
-                {{/if}}
+                {{format-relative (seconds-to-ms block.timestamp)}}
               </td>
             </tr>
           {{/each}}
