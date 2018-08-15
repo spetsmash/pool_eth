@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e4150ea-d896-4f87-8b6d-a6f25b069416" name="Default" comment="last 10 blocks time">
+    <list default="true" id="1e4150ea-d896-4f87-8b6d-a6f25b069416" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/www/app/routes/application.js" afterPath="$PROJECT_DIR$/www/app/routes/application.js" />
+      <change beforePath="$PROJECT_DIR$/www/app/styles/app.css" afterPath="$PROJECT_DIR$/www/app/styles/app.css" />
       <change beforePath="$PROJECT_DIR$/www/app/templates/index.hbs" afterPath="$PROJECT_DIR$/www/app/templates/index.hbs" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +22,8 @@
       <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/app/routes/application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="186">
+              <caret line="52" column="24" lean-forward="false" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -29,40 +31,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/bower.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ember-cli-build.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/ember-cli-build.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blocks.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proxy/blocks.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-207">
-              <caret line="75" column="29" lean-forward="false" selection-start-line="69" selection-start-column="8" selection-end-line="75" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/dist/index.html">
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -81,8 +51,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".ember-cli" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/.ember-cli">
+      <file leaf-file-name="PAYOUTS.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/PAYOUTS.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -91,8 +61,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/.gitignore">
+      <file leaf-file-name="POLICIES.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/POLICIES.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -101,21 +71,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".watchmanconfig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/.watchmanconfig">
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/app/styles/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="456">
+              <caret line="351" column="32" lean-forward="true" selection-start-line="351" selection-start-column="32" selection-end-line="351" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.hbs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.hbs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/app/templates/index.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="73" column="66" lean-forward="false" selection-start-line="73" selection-start-column="66" selection-end-line="73" selection-end-column="66" />
+            <state relative-caret-position="384">
+              <caret line="104" column="105" lean-forward="false" selection-start-line="104" selection-start-column="105" selection-end-line="104" selection-end-column="105" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#5;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="STRATUM.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/STRATUM.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/controllers/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="17" column="5" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="17" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -165,9 +167,9 @@
         <option value="$PROJECT_DIR$/proxy/blocks.go" />
         <option value="$PROJECT_DIR$/www/app/controllers/application.js" />
         <option value="$PROJECT_DIR$/www/app/models/block.js" />
-        <option value="$PROJECT_DIR$/www/app/styles/app.css" />
         <option value="$PROJECT_DIR$/www/app/routes/application.js" />
         <option value="$PROJECT_DIR$/www/app/templates/index.hbs" />
+        <option value="$PROJECT_DIR$/www/app/styles/app.css" />
       </list>
     </option>
   </component>
@@ -195,8 +197,12 @@
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-4PKiGbIZ.tmp/2/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-6NBBrGrN.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-8DbwosFR.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-CB044AKh.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-COUKQVw9.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-CeZIYaBe.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-DezVAgRq.tmp/1/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-DnkXumGB.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-Eo7JjXMQ.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-HJWgVFt6.tmp/2/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-I3ZsVHjb.tmp/12/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-IXfyI1g6.tmp/0/vendor/node_modules" />
@@ -206,10 +212,13 @@
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-N2fqFIUX.tmp/2/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-NrjjDy5O.tmp/1/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-SwTtoEJB.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-V64UkciH.tmp/1/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-VSrJZLGD.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-VoEi2Rsi.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-W94TKJrv.tmp/1/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-aBLxpRtF.tmp/1/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-asdqqe8S.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-ba8bKpcL.tmp/12/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-bgtti93D.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-cATLwzYy.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-cvq7WEwI.tmp/1/vendor/node_modules" />
@@ -218,13 +227,18 @@
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-lCwviNN3.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-n1T70opM.tmp/1/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-n2cI2p6s.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-n6br388d.tmp/2/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-oGlJRNkV.tmp/1/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-ovgdOAn9.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-rTEEshCP.tmp/12/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-input_base_path-yeLM8PJg.tmp/1/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-09yGjURf.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-0o1gERsn.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-2FihIXRR.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-2QOlIzCD.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-3ZIFX9Sj.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-3gc6yZh4.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-4JddC5MA.tmp/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-4wcGI6TK.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-8Q2sQc4l.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-Al03cZc3.tmp/node_modules" />
@@ -235,6 +249,8 @@
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-Gjs34KNy.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-IW5qbV3S.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-IeiidVxx.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-JqkjlQyB.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-JymYCGN8.tmp/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-KCd1eI7m.tmp/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-MaeTcEkw.tmp/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-MvdNuPzv.tmp/node_modules" />
@@ -250,16 +266,21 @@
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-i81az0BW.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-koFD9at9.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-p4s8vX0R.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-p7ZRgWhW.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-pWfdBkTv.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-qZ7bvEx7.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-t7EVaebE.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-tepizR83.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/broccoli_merge_trees-output_path-xKRGEqby.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-1HiwYv8V.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-7ZEhsDE6.tmp/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-9GKaSrLT.tmp/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-DeJwmStS.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-DvYlhCKD.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-ICnXgs6M.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-JHhz8KQS.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-TrrccxJ6.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-UAM7X2hZ.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-UVS6hHsT.tmp/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-YObC7IWi.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/funnel-input_base_path-ZXXcQJAN.tmp/vendor/node_modules" />
@@ -270,28 +291,34 @@
     <handled-path value="$PROJECT_DIR$/www/tmp/funnel-output_path-OBEobFHg.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/funnel-output_path-aNIAVVQX.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/funnel-output_path-bFEdhrIh.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/funnel-output_path-dDDf6jcE.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-AaVWDDAG.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-HdRVb4FJ.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-IfW2McBp.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-M6XoX8pE.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-YNv7dGbh.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-asQYRMQ9.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-cAtSu5bJ.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-hWKl9z3h.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-nJrbvoF4.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/simple_concat-input_base_path-qB6YpOZ2.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-138XI5e3.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-2xTcwt8b.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-5LFC3LOP.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-AcFjF0xp.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-FduI9PfI.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-JC3pIv1k.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-Ln7n4L51.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-M5MUH8WK.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-MR6TfH87.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-N0HnxW1Y.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-NtJjPpUj.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-kcsHVRIy.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-uhEVQ8sx.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-xgDm6yqp.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/www/tmp/source_map_concat-input_base_path-xnQmHBV2.tmp/0/vendor/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1385" />
     <option name="height" value="800" />
   </component>
@@ -310,6 +337,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -321,47 +349,7 @@
             <path>
               <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
               <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
-              <item name="misc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
-              <item name="payouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
-              <item name="policy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
               <item name="rpc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
@@ -373,6 +361,27 @@
               <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
               <item name="www" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
@@ -381,23 +390,10 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="open-ethereum-pool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="open-ethereum-pool" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -457,7 +453,10 @@
       <workItem from="1533972853969" duration="639000" />
       <workItem from="1533978517250" duration="1435000" />
       <workItem from="1534148908417" duration="773000" />
-      <workItem from="1534156907545" duration="10668000" />
+      <workItem from="1534156907545" duration="10927000" />
+      <workItem from="1534253467203" duration="193000" />
+      <workItem from="1534330534697" duration="293000" />
+      <workItem from="1534335992682" duration="3421000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1534168850401</created>
@@ -487,24 +486,31 @@
       <option name="project" value="LOCAL" />
       <updated>1534171087825</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="last 10 blocks time">
+      <created>1534243357818</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1534243357818</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40262000" />
+    <option name="totallyTimeSpent" value="44428000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1385" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26026392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26004228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2490931" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -555,48 +561,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rpc/rpc.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/payouts/unlocker_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/payouts/unlocker.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7741">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/miner.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-811">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/proto.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/handlers.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1276">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/app/templates/account/index.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -653,24 +617,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/config/environment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="40" column="41" lean-forward="false" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/app/templates/blocks.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="110" lean-forward="false" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/routes/account.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -761,7 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -769,7 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -777,7 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="73" lean-forward="false" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -785,7 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,7 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,7 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -809,7 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -817,7 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -825,7 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -833,7 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -841,41 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/controllers/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/styles/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="240" column="25" lean-forward="false" selection-start-line="240" selection-start-column="25" selection-end-line="240" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/routes/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -916,14 +821,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/proxy/blocks.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207">
+        <state relative-caret-position="1125">
           <caret line="75" column="29" lean-forward="false" selection-start-line="69" selection-start-column="8" selection-end-line="75" selection-end-column="29" />
           <folding />
         </state>
@@ -937,10 +842,112 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/routes/account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="65" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config/environment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/env.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/PAYOUTS.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/POLICIES.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/STRATUM.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/controllers/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/routes/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="52" column="24" lean-forward="false" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/app/templates/index.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="73" column="66" lean-forward="false" selection-start-line="73" selection-start-column="66" selection-end-line="73" selection-end-column="66" />
+        <state relative-caret-position="384">
+          <caret line="104" column="105" lean-forward="false" selection-start-line="104" selection-start-column="105" selection-end-line="104" selection-end-column="105" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#5;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/styles/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="351" column="32" lean-forward="true" selection-start-line="351" selection-start-column="32" selection-end-line="351" selection-end-column="32" />
           <folding />
         </state>
       </provider>

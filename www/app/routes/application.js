@@ -37,10 +37,20 @@ export default Ember.Route.extend({
       return data;
     });
 
+    var priceUsd = Ember.$.getJSON("https://cex.io/api/last_price/ETH/USD").then(function(data) {
+      return Ember.Object.create(data);
+    });
+
+    var priceBtc = Ember.$.getJSON("https://cex.io/api/last_price/ETH/BTC").then(function(data) {
+      return Ember.Object.create(data);
+    });
+
 
     var promises = {
       main: main,
-      block: block
+      block: block,
+      priceUsd: priceUsd,
+      priceBtc: priceBtc
     };
 
     return Ember.RSVP.hash(promises).then(function(data) {

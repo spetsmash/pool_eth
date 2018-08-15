@@ -99,7 +99,12 @@
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
         <div class="col-md-12 main-statistics">
           <p class="stats-header">Price</p>
-          <p class="stats-info orange"></p>
+          <div class="price-container">
+            <p class="stats-info orange">$ {{stats.model.priceUsd.lprice}}</p>
+            <div class="stats-info line" ></div>
+            <p class="stats-info orange">{{stats.model.priceUsd.lprice}} <span style="font-weight: 100"> ฿</span> </p>
+          </div>
+
         </div>
       </div>
     </div>

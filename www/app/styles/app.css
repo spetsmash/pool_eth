@@ -346,3 +346,16 @@ thead {
   letter-spacing: normal !important;
   color: #546497 !important;
 }
+
+.price-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: stretch;
+  margin-top: -20px;
+}
+
+.line {
+  width: 1px;
+  background-color: #979797;
+  height: 56px;
+}
